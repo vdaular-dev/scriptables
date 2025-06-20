@@ -1,3 +1,10 @@
+> [!CAUTION]
+> 
+> This project is not working and not supported anymore 😔
+> 
+> [as Scriptable is not available for MacOS anymore](https://www.reddit.com/r/Scriptable/comments/16rsxs2/was_scriptable_for_macos_removed)
+
+
 # Scriptable Development Environment
 
 
